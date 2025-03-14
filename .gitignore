@@ -20,7 +20,7 @@ wheels/
 .installed.cfg
 *.egg
 
-
+test.py
 tryllm.ipynb
 # Virtual Environment
 .env
@@ -28,6 +28,7 @@ tryllm.ipynb
 env/
 venv/
 ENV/
+.venv/
 
 # IDE
 .idea/
